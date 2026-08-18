@@ -25,8 +25,8 @@ I am particularly interested in building robust computational foundations for mu
 - [Blood Cancer](https://github.com/santur90/MDS_AZA) - ERRBS, RNA-seq, and multi-omics machine-learning analysis code supporting MDS/AZA research.
 - [Single_cell_analysis](https://github.com/santur90/single_cell_analysis) - Single-cell RNA-seq workflow covering QC, normalization, HVG selection, PCA, clustering, UMAP/t-SNE, marker discovery, and annotation support.
 - [RNA_seq_analysis](https://github.com/santur90/RNA_seq_analysis) - Bulk RNA-seq workflow from trimming and alignment through feature quantification, DESeq2, and GSEA.
-- [ERRBS_analysis](https://github.com/santur90/ERRBS_analysis) - Bismark-based ERRBS methylation workflow with methylSig differential methylation analysis.
-- [ML_analysis](https://github.com/santur90/ML_analysis) - Leakage-safe multi-omics classification using methylation, expression, and clinical or mutation features.
+- [DNAme_analysis](https://github.com/santur90/ERRBS_analysis) - Bismark-based ERRBS methylation workflow with methylSig differential methylation analysis.
+- [Machine Learning](https://github.com/santur90/ML_analysis) - Leakage-safe multi-omics classification using methylation, expression, and clinical or mutation features.
 - [ChIP_seq_analysis](https://github.com/santur90/ChIP_seq_analysis) - Configurable ChIP-seq workflow for alignment, filtering, peak calling, replicate assessment, and signal visualization.
 - [ATAC_seq_analysis](https://github.com/santur90/ATAC_seq_analysis) - ATAC-seq workflow with mitochondrial filtering, Tn5-aware processing, peak calling, TSS enrichment, and replicate QC.
 
