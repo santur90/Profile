@@ -1,4 +1,4 @@
-# Hi, I'm Santur
+# Hi, I'm Q
 
 ## Computational Biologist | Multi-Omics | Machine Learning
 
