@@ -22,7 +22,7 @@ I am particularly interested in building robust computational foundations for mu
 
 ### Research and bioinformatics
 
-- [MDS_AZA](https://github.com/santur90/MDS_AZA) - ERRBS, RNA-seq, and multi-omics machine-learning analysis code supporting MDS/AZA research.
+- [Blood Cancer](https://github.com/santur90/MDS_AZA) - ERRBS, RNA-seq, and multi-omics machine-learning analysis code supporting MDS/AZA research.
 - [single_cell_analysis](https://github.com/santur90/single_cell_analysis) - Single-cell RNA-seq workflow covering QC, normalization, HVG selection, PCA, clustering, UMAP/t-SNE, marker discovery, and annotation support.
 - [RNA_seq_analysis](https://github.com/santur90/RNA_seq_analysis) - Bulk RNA-seq workflow from trimming and alignment through feature quantification, DESeq2, and GSEA.
 - [ERRBS_analysis](https://github.com/santur90/ERRBS_analysis) - Bismark-based ERRBS methylation workflow with methylSig differential methylation analysis.
@@ -30,11 +30,9 @@ I am particularly interested in building robust computational foundations for mu
 - [ChIP_seq_analysis](https://github.com/santur90/ChIP_seq_analysis) - Configurable ChIP-seq workflow for alignment, filtering, peak calling, replicate assessment, and signal visualization.
 - [ATAC_seq_analysis](https://github.com/santur90/ATAC_seq_analysis) - ATAC-seq workflow with mitochondrial filtering, Tn5-aware processing, peak calling, TSS enrichment, and replicate QC.
 
-### Software and visualization
+### Website and visualization
 
-- [BI](https://github.com/santur90/BI) - Browser-based bioinformatics analysis platform.
-- [santur90.github.io](https://santur90.github.io/) - Interactive unit-conversion web application.
-- [learning-and-bioinformatics](https://github.com/santur90/learning-and-bioinformatics) - Consolidated programming, web, Git, and computational biology projects.
+- [Bioanalysis](https://github.com/santur90/BI) - Browser-based bioinformatics analysis platform.
 
 ## Technical stack
 
