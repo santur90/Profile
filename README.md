@@ -23,7 +23,7 @@ I am particularly interested in building robust computational foundations for mu
 ### Research and bioinformatics
 
 - [Blood Cancer](https://github.com/santur90/MDS_AZA) - ERRBS, RNA-seq, and multi-omics machine-learning analysis code supporting MDS/AZA research.
-- [single_cell_analysis](https://github.com/santur90/single_cell_analysis) - Single-cell RNA-seq workflow covering QC, normalization, HVG selection, PCA, clustering, UMAP/t-SNE, marker discovery, and annotation support.
+- [Single_cell_analysis](https://github.com/santur90/single_cell_analysis) - Single-cell RNA-seq workflow covering QC, normalization, HVG selection, PCA, clustering, UMAP/t-SNE, marker discovery, and annotation support.
 - [RNA_seq_analysis](https://github.com/santur90/RNA_seq_analysis) - Bulk RNA-seq workflow from trimming and alignment through feature quantification, DESeq2, and GSEA.
 - [ERRBS_analysis](https://github.com/santur90/ERRBS_analysis) - Bismark-based ERRBS methylation workflow with methylSig differential methylation analysis.
 - [ML_analysis](https://github.com/santur90/ML_analysis) - Leakage-safe multi-omics classification using methylation, expression, and clinical or mutation features.
@@ -49,12 +49,3 @@ I am particularly interested in building robust computational foundations for mu
 I have a strong record of research productivity, including first-author publications in the *Journal of Clinical Investigation* and *Molecular Cell*, as well as open-source contributions for biological data analysis and visualization.
 
 I enjoy collaborating with experimental scientists to translate computational methods into interpretable and actionable scientific insights.
-
-## Current focus
-
-I am excited to contribute these capabilities to Biohub Chicago's spatiotemporal multi-omics technology platform and help build the analytical foundation for ambitious biological discovery.
-
-## Contact
-
-- GitHub: [github.com/santur90](https://github.com/santur90)
-- Portfolio: [santur90.github.io](https://santur90.github.io/)
